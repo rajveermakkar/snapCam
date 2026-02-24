@@ -7,6 +7,9 @@
         "preview": {
             "android": {
                 "buildType": "apk"
+            },
+            "env": {
+                "EXPO_PUBLIC_GEMINI_API_KEY": "AIzaSyDtWK0HdYbPL39_JuvFTh40s9mI73M_k0o"
             }
         },
         "development": {
